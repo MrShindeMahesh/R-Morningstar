@@ -1,57 +1,81 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="Mahesh Shinde — Cybersecurity, Cloud, Industrial IoT and Automation" width="100%" />
+
 # **MAHESH SHINDE**
 
-### `Cybersecurity · Cloud Security · Industrial IoT · Automation`
+### `Cybersecurity  •  Cloud Security  •  Industrial IoT  •  Automation`
 
-> Building secure systems, cloud infrastructure, and automation solutions.
+**Building secure systems, cloud infrastructure, and automation solutions.**
+
+</div>
 
 ---
 
-## ⚡ SYSTEM PROFILE
+## `01` // SYSTEM STATUS
+
+| AREA | STATUS | FOCUS |
+|---|---|---|
+| 🛡️ Cybersecurity | `ACTIVE` | Offensive · Defensive · SIEM · Forensics |
+| ☁️ Cloud Security | `ACTIVE` | AWS · IAM · EC2 · S3 · VPC |
+| 📡 Industrial IoT | `ACTIVE` | Arduino · Raspberry Pi · MQTT · MySQL |
+| ⚙️ Automation | `BUILDING` | Python · APIs · n8n · Workflows |
+
+---
+
+## `02` // TECH ARSENAL
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  MAHESH SHINDE                                              │
-│  Cybersecurity × Cloud × IIoT × Automation                  │
-│                                                             │
-│  SECURITY       ████████████████████                        │
-│  CLOUD          █████████████████                           │
-│  INDUSTRIAL IoT ██████████████████                          │
-│  AUTOMATION     ████████████████                            │
-└─────────────────────────────────────────────────────────────┘
+┌─ SECURITY ───────────────────────────────────────────────┐
+│ Kali Linux   Nmap   Wireshark   Burp Suite   Wazuh      │
+│ Splunk       ELK    OSINT       Forensics               │
+└─────────────────────────────────────────────────────────┘
+
+┌─ CLOUD ──────────────────────────────────────────────────┐
+│ AWS EC2   S3   IAM   RDS   VPC   AWS CLI                │
+└─────────────────────────────────────────────────────────┘
+
+┌─ SYSTEMS / IoT ──────────────────────────────────────────┐
+│ Python   Java   C/C++   Arduino   Raspberry Pi          │
+│ MQTT     MySQL   Linux   Git   Networking               │
+└─────────────────────────────────────────────────────────┘
+
+┌─ AUTOMATION ─────────────────────────────────────────────┐
+│ n8n   Python Automation   APIs   Workflow Automation     │
+└─────────────────────────────────────────────────────────┘
 ```
 
-## 🛡️ CORE DOMAINS
+---
 
-**Cybersecurity** · Offensive Security · Defensive Security / SIEM · Network Security · Digital Forensics · OSINT · Incident Response
+## `03` // PROJECT DIRECTORY
 
-**Cloud & Infrastructure** · AWS EC2 · S3 · IAM · RDS · VPC · AWS CLI
+> **Architecture first. Code follows.** These directories are reserved for documented project builds; source code is not being added to the profile yet.
 
-**Industrial IoT** · Arduino · Raspberry Pi · Sensors · MQTT · MySQL · IoT Security
+### 🛡️ BLACKWALL
+**Unified IDS / IPS / SIEM for Industrial IoT**
 
-**Automation & Development** · Python · Java · C/C++ · n8n · Git · Linux
+`projects/project-blackwall/`
 
-## 🧰 TECH ARSENAL
+`Arduino → Python Middleware → Raspberry Pi → MySQL → SIEM → Response`
 
-```text
-PYTHON  JAVA  C/C++  AWS  LINUX  NMAP  WIRESHARK
-WAZUH  SPLUNK  ELK  BURP SUITE  ARDUINO  RASPBERRY PI
-MYSQL  MQTT  N8N  GIT  GITHUB  NETWORKING
-```
+### 🧪 CYBERSECURITY HOME LAB
+**Security monitoring, detection and offensive-security environment**
 
-## 🚀 PROJECT DIRECTORY
+`projects/cybersecurity-home-lab/`
 
-> Project directories only for now. Source code will be added as each project is documented and ready.
+### 📱 PHANTOMX
+**Android security application**
 
-- 🛡️ [BLACKWALL](projects/project-blackwall/) — Unified IDS/IPS/SIEM for Industrial IoT
-- 🧪 [Cybersecurity Home Lab](projects/cybersecurity-home-lab/) — Security monitoring and lab environment
-- 📱 [PhantomX](projects/phantomx/) — Android security application
-- 📦 [Suchi](projects/suchi/) — Smart accounting & inventory system
+`projects/phantomx/`
 
-## 🎯 CURRENT FOCUS
+### 📦 SUCHI
+**Smart accounting & inventory system**
 
-`Cybersecurity` · `Cloud Security` · `Industrial IoT` · `AI & Business Automation`
+`projects/suchi/`
 
-## 💼 EXPERIENCE
+---
+
+## `04` // EXPERIENCE
 
 **Cybersecurity Intern — Cyber Crime Police Station, Nagpur**  
 Digital evidence, phishing cases, online fraud incidents, OSINT and cybercrime investigation workflows.
@@ -64,8 +88,28 @@ Technical coordination, project planning, team leadership and event execution.
 
 ---
 
+## `05` // CERTIFICATIONS
+
+`Tata Cybersecurity Analyst` · `Deloitte Cyber Job Simulation` · `Advanced Java`  
+`CEH — Certified Ethical Hacker` · `OCI Generative AI Professional`
+
+---
+
+## `06` // CURRENT OPERATIONS
+
+```text
+[████████████████████] CYBERSECURITY
+[██████████████████░░] CLOUD SECURITY
+[██████████████████░░] INDUSTRIAL IoT
+[███████████████░░░░░] AI / BUSINESS AUTOMATION
+```
+
+---
+
 <div align="center">
 
 ### **BUILD → SECURE → AUTOMATE**
+
+[GitHub](https://github.com/MrShindeMahesh)  •  **Mahesh Shinde**
 
 </div>
